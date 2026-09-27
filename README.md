@@ -65,66 +65,66 @@ The following SaaS and enterprise commercial platforms provide end-to-end postur
 
 Open-source projects provide transparency, vendor-neutral vulnerability management, and custom scanner orchestration for DevSecOps pipelines. 🛠️
 
-*Sorted by GitHub Stars (Descending)* ⭐
+*Sorted by GitHub_Stars (Descending)* ⭐
 
-1. 🐠 **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social)](https://github.com/aquasecurity/trivy/stargazers)  
+1. 🐠 **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social)](https://github.com/aquasecurity/trivy/stargazers)  
    Comprehensive security scanner for containers, file systems, Git repositories, Kubernetes, AWS infrastructure, and Software Bill of Materials (SBOM).
 
-2. ⚛️ **[Project Discovery Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social)](https://github.com/projectdiscovery/nuclei/stargazers)  
+2. ⚛️ **[Project Discovery Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social)](https://github.com/projectdiscovery/nuclei/stargazers)  
    Fast and customizable vulnerability scanner based on simple YAML DSL, widely used for modern application security posture assessment and dynamic scanning.
 
-3. 🔑 **[Gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers)  
+3. 🔑 **[Gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub_Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers)  
    SAST tool for detecting and preventing hardcoded secrets like passwords, API keys, and tokens in git repositories.
 
-4. ⚡ **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social)](https://github.com/zaproxy/zaproxy/stargazers)  
+4. ⚡ **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** [![GitHub_Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social)](https://github.com/zaproxy/zaproxy/stargazers)  
    World's most widely used open-source Dynamic Application Security Testing (DAST) tool for finding vulnerabilities in web applications during runtime.
 
-5. 🔍 **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social)](https://github.com/semgrep/semgrep/stargazers)  
+5. 🔍 **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social)](https://github.com/semgrep/semgrep/stargazers)  
    Fast open-source static analysis (SAST) engine for searching code, enforcing security standards, and preventing bugs at commit time.
 
-6. 📦 **[Grype](https://github.com/anchore/grype)** [![GitHub stars](https://img.shields.io/github/stars/anchore/grype?style=social)](https://github.com/anchore/grype/stargazers)  
+6. 📦 **[Grype](https://github.com/anchore/grype)** [![GitHub_Stars](https://img.shields.io/github/stars/anchore/grype?style=social)](https://github.com/anchore/grype/stargazers)  
    Vulnerability scanner for container images and filesystems from Anchore, designed to work seamlessly with SBOM generators like Syft.
 
-7. 🧪 **[OSS-Fuzz](https://github.com/google/oss-fuzz)** [![GitHub stars](https://img.shields.io/github/stars/google/oss-fuzz?style=social)](https://github.com/google/oss-fuzz/stargazers)  
+7. 🧪 **[OSS-Fuzz](https://github.com/google/oss-fuzz)** [![GitHub_Stars](https://img.shields.io/github/stars/google/oss-fuzz?style=social)](https://github.com/google/oss-fuzz/stargazers)  
    Continuous fuzzing service for open-source software maintained by Google, detecting security bugs and memory vulnerabilities at scale.
 
-8. 🏗️ **[Checkov](https://github.com/bridgecrewio/checkov)** [![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social)](https://github.com/bridgecrewio/checkov/stargazers)  
+8. 🏗️ **[Checkov](https://github.com/bridgecrewio/checkov)** [![GitHub_Stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social)](https://github.com/bridgecrewio/checkov/stargazers)  
    Static code analysis tool for Infrastructure as Code (IaC) supporting Terraform, CloudFormation, Kubernetes, Dockerfile, and ARM templates.
 
-9. 🕵️ **[Faraday](https://github.com/infobyte/faraday)** [![GitHub stars](https://img.shields.io/github/stars/infobyte/faraday?style=social)](https://github.com/infobyte/faraday/stargazers)  
+9. 🕵️ **[Faraday](https://github.com/infobyte/faraday)** [![GitHub_Stars](https://img.shields.io/github/stars/infobyte/faraday?style=social)](https://github.com/infobyte/faraday/stargazers)  
    Open-source vulnerability management platform orchestrating 80+ security tools for offensive security, pentest finding aggregation, and collaborative tracking.
 
-10. 🥷 **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+10. 🥷 **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
     The flagship open-source vulnerability management and ASPM platform with 200+ scanner integrations. Aggregates findings from SAST, DAST, SCA, container, and IaC tools into a unified dashboard.
 
-11. 🟢 **[Greenbone / OpenVAS](https://github.com/greenbone/openvas-scanner)** [![GitHub stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=social)](https://github.com/greenbone/openvas-scanner/stargazers)  
+11. 🟢 **[Greenbone / OpenVAS](https://github.com/greenbone/openvas-scanner)** [![GitHub_Stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=social)](https://github.com/greenbone/openvas-scanner/stargazers)  
     Full-featured vulnerability scanner providing comprehensive network and application security scanning capabilities.
 
-12. 📜 **[Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social)](https://github.com/DependencyTrack/dependency-track/stargazers)  
+12. 📜 **[Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub_Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social)](https://github.com/DependencyTrack/dependency-track/stargazers)  
     OWASP Flagship Software Composition Analysis (SCA) and SBOM management platform enabling organizations to identify and reduce risk in the supply chain.
 
-13. 📐 **[OWASP ASVS](https://github.com/OWASP/ASVS)** [![GitHub stars](https://img.shields.io/github/stars/OWASP/ASVS?style=social)](https://github.com/OWASP/ASVS/stargazers)  
+13. 📐 **[OWASP ASVS](https://github.com/OWASP/ASVS)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/ASVS?style=social)](https://github.com/OWASP/ASVS/stargazers)  
     Application Security Verification Standard providing a framework of security requirements and controls for testing web application technical security controls.
 
-14. 🧱 **[Checkmarx KICS](https://github.com/Checkmarx/kics)** [![GitHub stars](https://img.shields.io/github/stars/Checkmarx/kics?style=social)](https://github.com/Checkmarx/kics/stargazers)  
+14. 🧱 **[Checkmarx KICS](https://github.com/Checkmarx/kics)** [![GitHub_Stars](https://img.shields.io/github/stars/Checkmarx/kics?style=social)](https://github.com/Checkmarx/kics/stargazers)  
     Keeping Infrastructure as Code Secure (KICS) finds security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
-15. 🎯 **[ArcherySec](https://github.com/archerysec/archerysec)** [![GitHub stars](https://img.shields.io/github/stars/archerysec/archerysec?style=social)](https://github.com/archerysec/archerysec/stargazers)  
+15. 🎯 **[ArcherySec](https://github.com/archerysec/archerysec)** [![GitHub_Stars](https://img.shields.io/github/stars/archerysec/archerysec?style=social)](https://github.com/archerysec/archerysec/stargazers)  
     Open-source vulnerability assessment and management platform orchestrating ZAP, OpenVAS, and custom security scans.
 
-16. 🐧 **[OpenSCAP](https://github.com/OpenSCAP/openscap)** [![GitHub stars](https://img.shields.io/github/stars/OpenSCAP/openscap?style=social)](https://github.com/OpenSCAP/openscap/stargazers)  
+16. 🐧 **[OpenSCAP](https://github.com/OpenSCAP/openscap)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSCAP/openscap?style=social)](https://github.com/OpenSCAP/openscap/stargazers)  
     NIST-certified security compliance framework providing tools to analyze enterprise infrastructure posture and compliance requirements.
 
-17. 🥑 **[GUAC (Graph for Understanding Artifact Composition)](https://github.com/guacsec/guac)** [![GitHub stars](https://img.shields.io/github/stars/guacsec/guac?style=social)](https://github.com/guacsec/guac/stargazers)  
+17. 🥑 **[GUAC (Graph for Understanding Artifact Composition)](https://github.com/guacsec/guac)** [![GitHub_Stars](https://img.shields.io/github/stars/guacsec/guac?style=social)](https://github.com/guacsec/guac/stargazers)  
     CNCF sandbox project aggregating software security metadata into a graph database to correlate SBOMs, attestations, and supply chain security data.
 
-18. 👁️ **[SecObserve](https://github.com/MaibornWolff/SecObserve)** [![GitHub stars](https://img.shields.io/github/stars/MaibornWolff/SecObserve?style=social)](https://github.com/MaibornWolff/SecObserve/stargazers)  
+18. 👁️ **[SecObserve](https://github.com/MaibornWolff/SecObserve)** [![GitHub_Stars](https://img.shields.io/github/stars/MaibornWolff/SecObserve?style=social)](https://github.com/MaibornWolff/SecObserve/stargazers)  
     Open-source vulnerability management system ingesting findings from Trivy, Grype, Bandit, Semgrep, Gitleaks, Checkov, and OWASP ZAP with an integrated SBOM engine.
 
-19. 📘 **[OWASP SAMM](https://github.com/OWASP/samm)** [![GitHub stars](https://img.shields.io/github/stars/OWASP/samm?style=social)](https://github.com/OWASP/samm/stargazers)  
+19. 📘 **[OWASP SAMM](https://github.com/OWASP/samm)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/samm?style=social)](https://github.com/OWASP/samm/stargazers)  
     Software Assurance Maturity Model providing a governance framework to evaluate, formulate, and improve application security posture.
 
-20. 🌲 **[DEPTEX](https://github.com/deptex/deptex)** [![GitHub stars](https://img.shields.io/github/stars/deptex/deptex?style=social)](https://github.com/deptex/deptex/stargazers)  
+20. 🌲 **[DEPTEX](https://github.com/deptex/deptex)** [![GitHub_Stars](https://img.shields.io/github/stars/deptex/deptex?style=social)](https://github.com/deptex/deptex/stargazers)  
     Software supply chain platform treating security risk as emergent from organizational graphs, using Execution Path Dominance (EPD) for contextual prioritization.
 
 ---
@@ -135,7 +135,7 @@ Contributions are welcome! To add a new platform or update existing information:
 
 1. Fork this repository. 🍴
 2. Edit `README.md` following the tabular layout for SaaS products or the star-ranked list for open-source tools. 📝
-3. Ensure details (pricing, free tiers, star badges, links) are accurate and factual. 🎯
+3. Ensure details (pricing, free tiers, Stars_Badges, links) are accurate and factual. 🎯
 4. Submit a Pull Request with a short summary of changes. 🚀
 
 ---
