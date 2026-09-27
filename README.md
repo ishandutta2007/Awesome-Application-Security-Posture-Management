@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Vehicle-Development?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Vehicle-Development?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Vehicle-Development?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Autonomous-Vehicle-Development?color=blue" alt="License" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,9 +68,9 @@ The global Autonomous Vehicle (AV) & ADAS simulation software market is estimate
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a comprehensive list of top open-source autonomous driving projects, frameworks, and simulators, **sorted by GitHub star count in descending order** ⭐.
+Below is a comprehensive list of top open-source autonomous driving projects, frameworks, and simulators, **sorted by GitHub Stars_Count in descending order** ⭐.
 
-| Open-Source Project | Stars & Community | Description & Key Features | License |
+| Open-Source Project | GitHub_Stars & Community | Description & Key Features | License |
 | :--- | :--- | :--- | :--- |
 | **[openpilot](https://github.com/commaai/openpilot)** | [<img src="https://img.shields.io/github/stars/commaai/openpilot?style=social&color=white" alt="openpilot Stars" />](https://github.com/commaai/openpilot/stargazers) | Open-source driver assistance system supporting 250+ car models. Performs Automated Lane Centering, Adaptive Cruise Control, and Driver Monitoring. | Apache-2.0 |
 | **[Apollo](https://github.com/ApolloAuto/apollo)** | [<img src="https://img.shields.io/github/stars/ApolloAuto/apollo?style=social&color=white" alt="Apollo Stars" />](https://github.com/ApolloAuto/apollo/stargazers) | Baidu's high-performance open autonomous driving platform. Comprehensive solution covering localization, perception, planning, control, and Cyber RT runtime. | Apache-2.0 |
