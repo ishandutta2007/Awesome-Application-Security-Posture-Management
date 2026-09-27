@@ -1,141 +1,127 @@
-# Awesome Autonomous Vehicle Development 🚗 Simulator, ADAS & AV Software Stacks
+## Top Application Security Posture Management (ASPM) Ecosystem
 
-<div align="center">
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Security Posture Aggregation, Risk Prioritization & DevSecOps Orchestration*  
+**Last updated: March 2026**
 
-<img src="assets/banner.svg" alt="Awesome Autonomous Vehicle Development Banner" width="100%" />
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Application Security Posture Management (ASPM)**. These tools aggregate findings from multiple security scanners, correlate risks across code, dependencies, containers, and cloud infrastructure, and provide unified visibility into an organization's application security posture.
 
-<br /><br />
+**Examples** include Apiiro, OX Security, ArmorCode, Mend.io, Legit Security, Kondukto, Jit, Phoenix Security, Snyk AppRisk, Seemplicity, Lineaje, Cycode, P0 Security, Aikido Security, and Endor Labs (the category leaders).
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Vehicle-Development?style=social" alt="GitHub_Stars" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Vehicle-Development?style=social" alt="GitHub forks" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Autonomous-Vehicle-Development/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Autonomous-Vehicle-Development?color=blue" alt="License" /></a>
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+**Open-source emphasis**: This section is expanded with active projects for self-hosting, custom scanner orchestration, and transparent vulnerability management — ideal for security teams, DevSecOps engineers, and developers building vendor-independent ASPM pipelines. Note that while several mature open-source vulnerability management platforms exist, the ASPM category — with true risk correlation and posture scoring — remains largely commercial.
 
-</div>
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
----
+## Table of Contents
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
 
-## 📌 Top Autonomous Vehicle Development Ecosystem
+## SaaS/Hosted Platforms
 
-**Curated List of SaaS Products & Open-Source GitHub Projects for Autonomous Driving, ADAS Simulation & Validation** 🚘⚡  
+- **[Apiiro](https://apiiro.com/)**  
+  Unified application risk visibility platform analyzing code, design, and runtime context with Risk Graph for prioritizing remediation.
 
-*Focused on High-Fidelity Physics Simulation, Hardware-in-the-Loop (HIL), Scenario Testing, Sensor Modeling (LiDAR, Radar, Cameras), and Production-Grade Autonomous Software Stacks.*  
+- **[OX Security](https://www.ox.security/)**  
+  End-to-end software supply chain security with PBOM (Pipeline Bill of Materials) and VibeSec AI for posture management.
 
-📅 **Last updated: March 2026**
+- **[ArmorCode](https://www.armorcode.com/)**  
+  AI-powered ASPM platform aggregating 320+ scanner integrations with intelligent prioritization and remediation workflows.
 
----
+- **[Mend.io](https://www.mend.io/)**  
+  Unified AppSec platform covering open source dependencies, AI models, and runtime with reachability analysis and compliance evidence.
 
-### 💡 Overview & Scope
+- **[Legit Security](https://www.legitsecurity.com/)**  
+  AI-native ASPM securing AI-generated code and development environments with real-time policy enforcement.
 
-This repository tracks top-tier **SaaS enterprise platforms** and **open-source projects** for **Autonomous Vehicle (AV) Development**. These frameworks empower automotive OEMs, Tier 1 suppliers, robotics developers, and researchers to design, simulate, test, and deploy Level 2+ to Level 4 autonomous systems safely.
+- **[Kondukto](https://kondukto.io/)**  
+  ASPM platform unifying vulnerability management across scanners with automated triage and DevSecOps orchestration.
 
-- 🏢 **SaaS Leaders:** Applied Intuition, Hexagon Autonomy, dSPACE, Foretellix, Parallel Domain, IPG CarMaker, Cognata, VI-grade, BeamNG.tech.
-- 🔓 **Open-Source Stacks & Simulators:** Apollo, LGSVL, CARLA, Autoware, AirSim, OpenPilot, SUMO, AWSIM.
+- **[Jit](https://www.jit.io/)**  
+  Open ASPM platform enabling developers to implement automated security with minimal configuration and independent remediation.
 
----
+- **[Phoenix Security](https://phoenix.security/)**  
+  Risk-based exposure and vulnerability management with SMART methodology for software, infrastructure, and cloud.
 
-## 📑 Table of Contents
+- **[Snyk AppRisk](https://snyk.io/)**  
+  ASPM product from Snyk providing visibility and controls across application security programs with developer-friendly workflows.
 
-- [🏢 SaaS & Enterprise Hosted Platforms](#-saas--enterprise-hosted-platforms)
-- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [⚠️ Disclaimer](#️-disclaimer)
-- [📈 Star History](#-star-history)
-- [💖 Support & Sponsorship](#-support--sponsorship)
+- **[Seemplicity](https://www.seemplicity.io/)**  
+  Remediation operations platform automating risk reduction workflows across security findings.
 
----
+- **[Lineaje](https://lineaje.com/)**  
+  Software supply chain security and management platform with SBOM analysis and dependency risk intelligence.
 
-## 🏢 SaaS & Enterprise Hosted Platforms
+- **[Cycode](https://cycode.com/)**  
+  AI-native application security platform uniting code-to-runtime context for identifying and prioritizing software risk.
 
-The global Autonomous Vehicle (AV) & ADAS simulation software market is estimated at **$1.34 Billion in 2026** (projected to reach $5.5B+ by 2035) and is **moderately fragmented**, featuring a mix of high-growth physical-AI tech unicorns (e.g., Applied Intuition), established industrial conglomerates (Hexagon, dSPACE), and niche virtual prototyping providers.
+- **[P0 Security](https://p0.dev/)**  
+  ASPM platform focused on securing cloud and application access with posture-driven controls.
 
-| SaaS / Hosted Platform | Description | Company Size / Valuation | Pricing Tier (Starting) | Free Tier Limit / Trial Policy |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Applied Intuition](https://www.appliedintuition.com/)** | End-to-end toolchain for autonomous vehicle development covering simulation, validation, and data management with high-fidelity sensor models and scenario generation. | **$15.0 Billion** valuation (2025 Series F) | Custom enterprise annual subscription starting at ~$50,000/year | No public free trial; enterprise demo / pilot access via sales request only |
-| **[Hexagon Autonomy](https://hexagon.com/)** | Autonomous systems development platform combining sensor simulation, positioning, and validation tools. | **$14.2 Billion** market cap (~€5.43B annual revenue) | Enterprise custom licensing based on platform modules | 30-day evaluation trial license available upon request |
-| **[dSPACE](https://www.dspace.com/)** | Simulation and validation solutions for autonomous driving with hardware-in-the-loop (HIL) testing and sensor simulation. | **~€460 Million** annual revenue (~$500M) | Enterprise custom license per seat/HIL hardware module | No free trial; test licenses provided for validated client evaluation projects |
-| **[Foretellix](https://www.fortellix.com/)** | Coverage-driven verification platform for autonomous systems with formal scenario description language (M-SDL) and measurable safety metrics. | **$135 Million** total funding (~$26M annual revenue) | Enterprise subscription per project / test suite | Demo available upon request; no self-service free trial |
-| **[Parallel Domain](https://paralleldomain.com/)** | Synthetic data generation and simulation platform for autonomous vehicle perception training and validation. | **$67.6 Million** total funding (Series B) | Custom usage-based tier starting at ~$25,000/project | No public free trial; sample synthetic dataset provided upon sales inquiry |
-| **[IPG CarMaker](https://ipg-automotive.com/)** | Virtual vehicle development platform for testing autonomous driving functions, ADAS, and powertrain systems. | **~€36 Million** annual revenue (~$40M) | Standalone seat license starting at ~$12,000/year | 14-day evaluation license available upon request; free non-commercial university license via Formula CarMaker |
-| **[Cognata](https://www.cognata.com/)** | AI-driven simulation platform for ADAS and autonomous vehicle validation with realistic 3D environments and sensor simulation. | **$27.8 Million** total funding (~$5M annual revenue) | Tiered enterprise cloud subscription | Custom demo environment available upon request; no public self-service trial |
-| **[VI-grade](https://www.vi-grade.com/)** | Driving simulator and simulation software solutions for vehicle dynamics, ADAS, and autonomous driving validation. | **~$25 Million** annual revenue (Acquired by Spectris) | Professional software seat starting at ~$10,000/year | Temporary demo license granted during formal training sessions; discounted startup program available |
-| **[BeamNG.tech](https://www.beamng.tech/)** | Soft-body physics-based simulation platform for autonomous vehicle development with realistic vehicle dynamics and sensor simulation. | **~$5 Million** annual revenue | Commercial license starting at ~$3,500/year | Free forever academic & research license (for eligible university students and researchers) |
-| **[CARLA Cloud](https://carla.org/)** | Cloud-hosted version of the open-source CARLA simulator with managed infrastructure and scalable scenario execution. | **Open-source ecosystem** (Community maintained) | Pay-as-you-go cloud compute infrastructure cost (e.g. AWS EC2 GPU instance from ~$0.75/hr) | CARLA simulator core software is free forever (MIT License) |
+- **[Aikido Security](https://www.aikido.dev/)**  
+  All-in-one AppSec platform covering code, cloud, and runtime with auto-triage reducing false positives by ~85% and AI-powered AutoFix.
 
----
+- **[Endor Labs](https://www.endorlabs.com/)**  
+  ASPM with reachability analysis, phantom dependency detection, and automated VEX generation to reduce CVE noise.
 
-## 🔓 Open-Source GitHub Projects
+## Open-Source GitHub Projects
 
-Below is a comprehensive list of top open-source autonomous driving projects, frameworks, and simulators, **sorted by GitHub Stars_Count in descending order** ⭐.
+- **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)**  
+  The most widely adopted open-source vulnerability management and ASPM platform with 200+ scanner integrations. Aggregates findings from SAST, DAST, SCA, container, and IaC tools into a unified dashboard with deduplication and metrics. Django-based with Docker deployment. Open-source core with commercial Pro features including SLA tracking and RBAC .
 
-| Open-Source Project | GitHub_Stars & Community | Description & Key Features | License |
-| :--- | :--- | :--- | :--- |
-| **[openpilot](https://github.com/commaai/openpilot)** | [<img src="https://img.shields.io/github/stars/commaai/openpilot?style=social&color=white" alt="openpilot Stars" />](https://github.com/commaai/openpilot/stargazers) | Open-source driver assistance system supporting 250+ car models. Performs Automated Lane Centering, Adaptive Cruise Control, and Driver Monitoring. | Apache-2.0 |
-| **[Apollo](https://github.com/ApolloAuto/apollo)** | [<img src="https://img.shields.io/github/stars/ApolloAuto/apollo?style=social&color=white" alt="Apollo Stars" />](https://github.com/ApolloAuto/apollo/stargazers) | Baidu's high-performance open autonomous driving platform. Comprehensive solution covering localization, perception, planning, control, and Cyber RT runtime. | Apache-2.0 |
-| **[LGSVL Simulator](https://github.com/lgsvl/simulator)** | [<img src="https://img.shields.io/github/stars/lgsvl/simulator?style=social&color=white" alt="LGSVL Stars" />](https://github.com/lgsvl/simulator/stargazers) | Unity-based autonomous vehicle simulator from LG/Microsoft AI. Provides ROS and CyberRT integration with high-fidelity sensor simulation. | MIT / Proprietary |
-| **[CARLA Simulator](https://github.com/carla-simulator/carla)** | [<img src="https://img.shields.io/github/stars/carla-simulator/carla?style=social&color=white" alt="CARLA Stars" />](https://github.com/carla-simulator/carla/stargazers) | Premier open-source simulator for AV research built on Unreal Engine. Offers urban environments, flexible sensor suites (LiDAR, radar, cameras), and Python APIs. | MIT |
-| **[AirSim](https://github.com/microsoft/AirSim)** | [<img src="https://img.shields.io/github/stars/microsoft/AirSim?style=social&color=white" alt="AirSim Stars" opacity="0.9" />](https://github.com/microsoft/AirSim/stargazers) | Open-source simulator for autonomous vehicles and drones built on Unreal Engine by Microsoft AI & Research, with hardware-in-the-loop support. | MIT |
-| **[Autoware](https://github.com/autowarefoundation/autoware)** | [<img src="https://img.shields.io/github/stars/autowarefoundation/autoware?style=social&color=white" alt="Autoware Stars" />](https://github.com/autowarefoundation/autoware/stargazers) | World's leading open-source autonomous driving software stack built on ROS2. Enables production-ready Level 4 autonomy for shuttle and passenger vehicles. | Apache-2.0 |
-| **[SUMO](https://github.com/eclipse-sumo/sumo)** | [<img src="https://img.shields.io/github/stars/eclipse-sumo/sumo?style=social&color=white" alt="SUMO Stars" />](https://github.com/eclipse-sumo/sumo/stargazers) | Eclipse SUMO (Simulation of Urban MObility) is a fast, microscopic traffic simulation suite designed to handle large road networks and traffic management. | EPL-2.0 |
-| **[Self-Driving Vehicle (Habrador)](https://github.com/Habrador/Self-driving-vehicle)** | [<img src="https://img.shields.io/github/stars/Habrador/Self-driving-vehicle?style=social&color=white" alt="Habrador Stars" />](https://github.com/Habrador/Self-driving-vehicle/stargazers) | Unity-based simulation of path planning for self-driving vehicles implementing Hybrid A* pathfinding and motion planning. | MIT |
-| **[Scenic](https://github.com/berkeley-scene-language/Scenic)** | [<img src="https://img.shields.io/github/stars/berkeley-scene-language/Scenic?style=social&color=white" alt="Scenic Stars" />](https://github.com/berkeley-scene-language/Scenic/stargazers) | Domain-specific scenario description language for probabilistic scenario specification and synthetic test generation in autonomous driving. | Apache-2.0 |
-| **[Pylot](https://github.com/erdos-project/pylot)** | [<img src="https://img.shields.io/github/stars/erdos-project/pylot?style=social&color=white" alt="Pylot Stars" />](https://github.com/erdos-project/pylot/stargazers) | Modular autonomous driving platform designed for research, running seamlessly on CARLA and real-world vehicles with low-latency dataflows. | Apache-2.0 |
-| **[AWSIM](https://github.com/tier4/AWSIM)** | [<img src="https://img.shields.io/github/stars/tier4/AWSIM?style=social&color=white" alt="AWSIM Stars" />](https://github.com/tier4/AWSIM/stargazers) | TIER IV's Unity-based autonomous driving simulator tailored as a reference environment for Autoware with ROS2 native communication. | Apache-2.0 |
-| **[CARLA Scenario Runner](https://github.com/carla-simulator/scenario_runner)** | [<img src="https://img.shields.io/github/stars/carla-simulator/scenario_runner?style=social&color=white" alt="Scenario Runner Stars" />](https://github.com/carla-simulator/scenario_runner/stargazers) | Traffic scenario definition engine for CARLA enabling reproducible safety verification and OpenSCENARIO standards execution. | MIT |
-| **[CARLA ROS Bridge](https://github.com/carla-simulator/ros-bridge)** | [<img src="https://img.shields.io/github/stars/carla-simulator/ros-bridge?style=social&color=white" alt="ROS Bridge Stars" />](https://github.com/carla-simulator/ros-bridge/stargazers) | ROS / ROS2 communication bridge for CARLA Simulator, connecting CARLA to ROS nodes and Autoware pipelines. | MIT |
-| **[CARMA Platform](https://github.com/usdot-fhwa-stol/carma-platform)** | [<img src="https://img.shields.io/github/stars/usdot-fhwa-stol/carma-platform?style=social&color=white" alt="CARMA Stars" />](https://github.com/usdot-fhwa-stol/carma-platform/stargazers) | USDOT FHWA's Cooperative Driving Automation (CDA) platform built on ROS to enable vehicle-to-everything (V2X) cooperative maneuvers. | Apache-2.0 |
-| **[carla-autoware](https://github.com/carla-simulator/carla-autoware)** | [<img src="https://img.shields.io/github/stars/carla-simulator/carla-autoware?style=social&color=white" alt="carla-autoware Stars" />](https://github.com/carla-simulator/carla-autoware/stargazers) | Integration package linking Autoware AV software stack directly into the CARLA simulation environment. | MIT |
-| **[CARLA Leaderboard](https://github.com/carla-simulator/leaderboard)** | [<img src="https://img.shields.io/github/stars/carla-simulator/leaderboard?style=social&color=white" alt="Leaderboard Stars" />](https://github.com/carla-simulator/leaderboard/stargazers) | Official CARLA benchmarking framework evaluating autonomous driving agents across standardized urban routes and traffic scenarios. | MIT |
-| **[RobotecGPULidar](https://github.com/RobotecAI/RobotecGPULidar)** | [<img src="https://img.shields.io/github/stars/RobotecAI/RobotecGPULidar?style=social&color=white" alt="Robotec Lidar Stars" />](https://github.com/RobotecAI/RobotecGPULidar/stargazers) | GPU-accelerated raycasting LiDAR simulation plugin for CARLA and custom simulation engines using OptiX / CUDA. | Apache-2.0 |
+- **[SecObserve](https://github.com/MaibornWolff/SecObserve)**  
+  Open-source vulnerability and license management system maintained by MaibornWolff. Multi-scanner aggregator ingesting Trivy, Grype, Bandit, Semgrep, Gitleaks, Checkov, KICS, Kubescape, and OWASP ZAP. Lighter operational footprint than DefectDojo with CI/CD-first design. License management and SBOM ingestion are core capabilities, not add-ons .
 
----
+- **[Faraday](https://github.com/infobyte/faraday)**  
+  Open-source vulnerability management platform with 6.2k GitHub stars, orchestrating 80+ security tools. Built for offensive security teams managing pentest findings from Nessus, OpenVAS, Burp Suite, ZAP, Nmap, and Metasploit. Features Agents Dispatcher for remote scanning and collaborative workspaces. GPL-3.0 licensed .
 
-### 💡 Architectural Recommendation for AV Development
+- **[Dependency-Track](https://github.com/DependencyTrack/dependency-track)**  
+  OWASP Flagship project for Software Composition Analysis (SCA) and SBOM compliance. Goes deeper than general-purpose ASPM platforms for dependency vulnerabilities, with support for CycloneDX and SPDX formats. Apache 2.0 licensed with 3.6k+ stars .
 
-For building a robust end-to-end autonomous driving development pipeline:
-1. **Simulation & Virtual Testing:** Combine **CARLA** or **AWSIM** for high-fidelity 3D sensor simulation with **SUMO** for macroscopic traffic flow.
-2. **Autonomous Driving Stack:** Utilize **Autoware** (ROS2 native) or **Apollo** (CyberRT) for sensor fusion, localization, motion planning, and vehicle control.
-3. **Scenario Verification:** Standardize test suites using **CARLA Scenario Runner** (OpenSCENARIO compliant) and **Scenic** for automated edge-case generation.
-4. **V2X Cooperation:** Integrate **CARMA Platform** for testing connected and cooperative autonomous vehicle algorithms.
+- **[GUAC (Graph for Understanding Artifact Composition)](https://github.com/guacsec/guac)**  
+  Open-source project aggregating software security metadata into a graph database. Correlates SBOMs, attestations, and vulnerability data for supply chain visibility. CNCF sandbox project.
 
----
+- **[Archery](https://github.com/archerysec/archery)**  
+  Open-source vulnerability assessment and management platform orchestrating ZAP and OpenVAS scans with a web interface. Lighter than DefectDojo for teams primarily needing scan orchestration and basic vulnerability tracking .
 
-## 🤝 How to Contribute
+- **[DEPTEX](https://github.com/deptex/deptex)**  
+  Organization-first software supply chain platform treating risk as emergent from organizational graphs. Features Execution Path Dominance (EPD) for contextual prioritization and Security "As Code" engine. Available as open-source web application; roadmap includes evolution into full ASPM with SAST and secrets detection .
 
-Contributions are welcome! Please follow these simple guidelines:
+- **[OWASP SAMM](https://github.com/OWASP/samm)**  
+  Software Assurance Maturity Model providing a framework for analyzing and improving application security posture. While not a tool itself, SAMM's assessment questionnaires and maturity benchmarks are essential for ASPM program governance. Includes Governance, Design, Implementation, Verification, and Operations business functions .
 
-1. Fork this repository 🍴
-2. Create your feature branch (`git checkout -b feature/new-av-tool`)
-3. Add the project to `README.md` following the table format.
-4. Ensure descriptions are accurate, factual, and neutral.
-5. Open a Pull Request with a clear summary 🚀
+- **[OWASP ASVS](https://github.com/OWASP/ASVS)**  
+  Application Security Verification Standard providing a basis for testing web application technical security controls. Referenced by OWASP as the guideline for setting application security requirements in ASPM programs .
 
-Check out our curated list hub: [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+### Additional Strong Open-Source Options
 
----
+- **OSS-Fuzz** — Google's continuous fuzzing service for open-source projects, finding vulnerabilities at scale. Not ASPM per se, but valuable for code-level posture.
+- **OpenVAS/Greenbone** — Open-source vulnerability scanner with comprehensive coverage for network and application scanning, often integrated into ASPM pipelines.
+- **Trivy** — Aqua Security's open-source scanner for containers, IaC, and SBOM, widely used as a component in open-source ASPM stacks.
+- **Gitleaks** — Open-source secrets detection tool for git repositories, commonly aggregated into ASPM dashboards alongside SAST and SCA findings.
+- **Semgrep** — Open-source SAST engine with custom rule support, frequently used as a scanning component in open-source ASPM implementations.
+- **OpenSCAP** — NIST-certified security compliance scanning for Linux systems, relevant for infrastructure posture components.
 
-## ⚠️ Disclaimer
+**Frameworks for building custom ASPM solutions**: Combine **DefectDojo** or **SecObserve** as the aggregation and management layer, **Trivy** + **Semgrep** + **Gitleaks** for scanning coverage, **Dependency-Track** for deep SCA and SBOM analysis, and **OWASP SAMM** for program maturity governance. For offensive security workflows, **Faraday** provides pentest-focused aggregation. Note that true ASPM risk correlation — linking a code finding to a runtime exposure to a business asset — remains largely commercial territory; open-source stacks provide scanner aggregation and vulnerability management without the full posture scoring and context enrichment of commercial platforms.
 
-- This list is **community-curated** for educational, research, and informational purposes.
-- Autonomous vehicle development tools and simulation stacks must comply with safety standards (e.g., ISO 26262, ISO 21448 / SOTIF) before real-world testing.
-- Self-hosted software requires proper hardware calibration and safety drivers during physical vehicle testing.
+## How to Contribute
 
----
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
 
-## 📈 Star History
+Star the repo if you find it useful!
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Security-Posture-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Security-Posture-Management&type=date&legend=top-left)
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- ASPM tools must comply with data privacy regulations (GDPR, CCPA, etc.) and industry-specific compliance requirements (SOC 2, ISO 27001, PCI DSS).
+- Self-hosted open-source solutions require proper infrastructure, security hardening, and ongoing maintenance. Scanner integrations require configuration and tuning to reduce false positives.
+- The open-source ecosystem provides strong vulnerability management and scanner aggregation capabilities, but true ASPM posture scoring with business-context risk correlation remains primarily a commercial offering.
 
 ---
 
-## 💖 Support & Sponsorship
-
-If you found this curated list helpful in your autonomous driving research or project, please consider supporting the project:
-
-- 🌟 **Star this repository** to help others discover it.
-- 🔀 **Fork & Share** with fellow automotive engineers and researchers.
-- ☕ **Buy Me a Coffee / Sponsor:** If you would like to support ongoing maintenance and new features, check out my [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-Thank you for being part of the open-source autonomous vehicle community! 🚗✨
+**Made for security engineers, DevSecOps teams, AppSec managers, and platform engineers.**  
+Let's make application security posture management more open, transparent, and vendor-neutral.
